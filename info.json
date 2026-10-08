@@ -1,0 +1,20 @@
+{
+    "name": "realistic_production_main",
+    "version": "0.0.1",
+    "factorio_version": "2.0",
+    "title": "Realistic Production",
+    "author": "Appalings03",
+    "contact": "",
+    "homepage": "",
+    "description": "Graphics and sounds for Realistic Production",
+    "dependencies": [
+        "base >= 2.0.69",
+        "realistic_production_assets >= 0.0.1",
+        "realistic_production_buidling >= 0.0.1",
+        "realistic_production_ore >= 0.0.1"
+    ],
+    "package": {
+        "ignore": [],
+        "scripts": {}
+    }
+}

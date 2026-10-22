@@ -10,8 +10,8 @@
     "dependencies": [
         "base >= 2.1",
         "realistic_production_assets >= 0.0.1",
-        "realistic_production_buidling >= 0.0.1",
-        "realistic_production_ore >= 0.0.1",
+        "realistic_production_building >= 0.0.1",
+        "realistic_production_ore >= 0.0.1",    
         "realistic_production_utils >= 0.0.1"
     ],
     "package": {
